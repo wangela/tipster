@@ -4,5 +4,24 @@
     <string name="app_name">Tipster</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="label_tip_amount">The tip amount is:</string>
+    <string name="label_total_amount">The total bill is:</string>
+    <string name="tip_10_percent">10%</string>
+    <string name="tip_15_percent">15%</string>
+    <string name="tip_20_percent">20%</string>
+    <string name="hint_enter_bill_amount">Enter the bill amount</string>
+    <string name="label_choose_tip_amount">Choose the tip amount</string>
+    <string name="calculation_method">Calculation Method</string>
+    <string name="capital_simple">SIMPLE</string>
+    <string name="capital_detailed">DETAILED</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+    <string name="hint_subtotal">Enter subtotal</string>
+    <string name="hint_tax">Enter tax</string>
+    <string name="label_choose_tip">Choose tip percentage</string>
+    <string name="label_based_on_subtotal">Based on pre-tax bill</string>
+    <string name="zero_percent">0%</string>
+    <string name="label_subtotal">Subtotal</string>
+    <string name="label_tax">Tax</string>
+    <string name="tip_18_percent">18%</string>
 
 </resources>
