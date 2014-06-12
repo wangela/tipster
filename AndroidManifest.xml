@@ -24,7 +24,7 @@
         </activity>
         <activity
             android:name="codepath.wangela.apps.tipster.DetailedActivity"
-            android:label="@string/title_activity_detailed" >
+            android:label="@string/app_name" >
         </activity>
     </application>
 
