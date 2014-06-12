@@ -19,7 +19,8 @@ Completed user stories:
  
 Notes:
 
-Created a second activity to allow user to switch between simple tip calculation and complex tip calculation
+Created a second activity to allow user to switch between simple tip calculation and complex tip calculation.
+In the future, would like to get the tip percentage to follow the thumb on the SeekBar in the Detailed calculator.
 
 Walkthrough of all user stories:
 
