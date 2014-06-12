@@ -1,6 +1,7 @@
 # Tipster app for Android
 
-This is an Android application to calculate the tip amount based on the customer's preferred tip percentage.
+This is an Android application to calculate the tip amount based on the customer's preferred tip percentage. This is a project for the CodePath Intro to Android Bootcamp which you can sign up for at (http://codepath.com/androidbootcamp).
+
 
 Time spent: 18 hours spent in total
 
@@ -13,6 +14,7 @@ Completed user stories:
  * [x] Optional: User begins typing a new bill amount and old tip and total amounts are cleared
  * [x] Optional: User can input subtotal and tax to get tip based on subtotal
  * [x] Optional: User can input tax to get total amount based on subtotal plus tip and tax
+ * [x] Optional: User can select any tip percent between 0-100%
  * [x] Optional: User can choose between simple tip calculator and complex (based on subtotal) tip calculator
  
 Notes:
